@@ -1,3 +1,3 @@
-workers_dev = false
+workers_dev = true
 name = "asw-worker"
 type = "webpack"
